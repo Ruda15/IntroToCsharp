@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\bin\Debug\net8.0\Work2.exe
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\bin\Debug\net8.0\Work2.deps.json
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\bin\Debug\net8.0\Work2.runtimeconfig.json
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\bin\Debug\net8.0\Work2.dll
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\bin\Debug\net8.0\Work2.pdb
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.dll
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\refint\Work2.dll
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.pdb
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\Work2.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Intro to C#\Homework\Work2\obj\Debug\net8.0\ref\Work2.dll
