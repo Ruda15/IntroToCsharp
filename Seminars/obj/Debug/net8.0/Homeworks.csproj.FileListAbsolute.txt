@@ -1,0 +1,4 @@
+C:\Users\Dell\Desktop\Intro to C#\Seminars\Homeworks\obj\Debug\net8.0\Homeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Intro to C#\Seminars\Homeworks\obj\Debug\net8.0\Homeworks.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Intro to C#\Seminars\Homeworks\obj\Debug\net8.0\Homeworks.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Intro to C#\Seminars\Homeworks\obj\Debug\net8.0\Homeworks.csproj.CoreCompileInputs.cache
